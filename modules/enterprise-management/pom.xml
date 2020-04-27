@@ -11,10 +11,10 @@
     </parent>
 
     <!-- >>> Replace this with the service module's artifactId (e.g. "example-service") -->
-    <artifactId>global-catalog</artifactId>
+    <artifactId>enterprise-management</artifactId>
 
     <!-- >>> Replace this with a text description of this module (e.g. "Example Service") -->
-    <name>Global Catalog</name>
+    <name>IBM Cloud Enterprise Management API</name>
     <packaging>jar</packaging>
 
     <dependencies>
