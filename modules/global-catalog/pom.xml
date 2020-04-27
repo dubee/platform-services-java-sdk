@@ -27,6 +27,7 @@
             <artifactId>platform-services-common</artifactId>
             <groupId>com.ibm.cloud</groupId>
         </dependency>
+        
         <dependency>
             <!-- >>> Replace this with the "common" module's artifactId (e.g. my-services-common) -->
             <artifactId>platform-services-common</artifactId>
